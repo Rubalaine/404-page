@@ -1,0 +1,14 @@
+{
+    "name": "404-not-found-master",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Rubalaine <kelvenizzy@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "watch:sass": "sass --watch src/scss/main.scss public/styles/style.css",
+        "build:sass": "sass --watch src/scss/main.scss public/styles/style.css --style compressed"
+    },
+    "devDependencies": {
+        "sass": "^1.29.0"
+    }
+}

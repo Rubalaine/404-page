@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="hhttps://github.com/Rubalaine/404-page">
+    <a href="https://github.com/Rubalaine/404-page">
       Solution
     </a>
     <span> | </span>
